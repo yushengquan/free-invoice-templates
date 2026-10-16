@@ -19,6 +19,21 @@ Each trade has three formats:
 
 Appliance Repair, Auto Detailing, Carpenter, Cleaning, Concrete, Drywall, Electrician, Fencing, Flooring, Gardener, Handyman, HVAC, Junk Removal, Landscaper, Locksmith, Mover, Painter, Paving, Pest Control, Photographer, Plumber, Pressure Washing, Roofing, Salon, Snow Removal, Tiling, Tree Service, Tutor, Welder, Window Cleaning — and more (53 trade × 3 formats = 159 files).
 
+## Popular templates
+
+Direct links to the most-used templates on the site:
+
+- [Carpenter invoice template (Word format)](https://fieldformtemplates.com/templates/carpenter-invoice-template-word/) — bill format, ready to brand
+- [Carpenter invoice template (Excel format)](https://fieldformtemplates.com/templates/carpenter-invoice-template-excel/) — auto-calculating
+- [Pest control invoice template](https://fieldformtemplates.com/templates/pest-control-invoice-template/) — inspection, treatment, quarterly plans
+- [HVAC invoice template](https://fieldformtemplates.com/templates/hvac-invoice-template/) — service calls, parts, seasonal labor
+- [Locksmith invoice template](https://fieldformtemplates.com/templates/locksmith-invoice-template/) — call-outs, key cutting, lock installs
+- [Electrician estimate template](https://fieldformtemplates.com/templates/electrician-estimate-template/) — wiring, panels, fixtures
+- [Tiling invoice template](https://fieldformtemplates.com/templates/tiling-invoice-template/) — install, grout, waterproofing
+- [Plumbing invoice template](https://fieldformtemplates.com/templates/plumbing-invoice-template/) — trip fees, fixtures, labor
+
+Every trade above has a matching estimate version too, plus an [invoice calculator](https://fieldformtemplates.com/invoice-calculator/) for quick job math.
+
 ## Usage
 
 ### Download a single template
